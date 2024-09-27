@@ -1,3 +1,3 @@
 # Proyecto 1:
 
- resolvimos 10 ejercicios de python basico enfocado en listas y bucles
+En este proyecto realizamos una serie de ejercicios para limpiar datos de usuarios de un ecommerce.
